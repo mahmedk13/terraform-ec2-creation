@@ -1,0 +1,1 @@
+User should have a key with "mykey.pem" name in their AWS account to create EC2 machine using this template.
